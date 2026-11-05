@@ -1,6 +1,6 @@
 # Hello techies!👋, I'm Lavanya Malakalapalli
 
-MS by Research @ IIT Dharwad | B.Tech @ Sasi Institute of Technology & Engineering
+MS by Research @ IIT Dharwad | B.Tech @ SITE
 
 ### 🔭 What I Do
 * **Research & Development:** Building ML models to predict gNB power consumption and applying SHAP and LIME for feature interpretation.
