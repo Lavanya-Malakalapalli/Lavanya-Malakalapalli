@@ -14,6 +14,12 @@ MS by Research @ IIT Dharwad | B.Tech @ SITE
 * **Networking:** TCP/IP, SDN, Open RAN, 5G Networks, Network Debugging (ping, tcpdump, iPerf, Wireshark)
 * **Tools & Platforms:** Docker, Prometheus, Grafana, Mininet
 
+## 🔨 Projects & Technical Work
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[O-RAN Energy XAI (Master's Thesis)](https://github.com/Lavanya-Malakalapalli/oran-energy-xai-overview)** | Developed ML models to predict power consumption in 5G Open RAN. Integrated Explainable AI techniques (SHAP and LIME) to identify and interpret key network parameters influencing energy consumption in virtualized base stations. | Python, XGBoost, Random Forest, SHAP, LIME, O-RAN |
+| **[JSON vs Protobuf Benchmark](https://github.com/Lavanya-Malakalapalli/json-vs-protobuf-benchmark)** | Developed a performance benchmark comparing JSON and Protocol Buffers (Protobuf) serialization. Evaluated CPU usage, execution time, and payload scalability to understand their performance trade-offs in data exchange. | Python, Protobuf, JSON, Performance Benchmarking |
 
 ### 📫 Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/lavanya-malakalapalli-aab9a3196/
